@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1040824737850",
+    "project_id": "nevinschatapp",
+    "storage_bucket": "nevinschatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040824737850:android:4a1654d1eafa1de8b39503",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040824737850-7o2s1nn15hgniebagr4sqa15jinkth17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "749f0fba171f9e43fd38ff63b6191893566fa553"
+          }
+        },
+        {
+          "client_id": "1040824737850-fdvrsrlj3tit1visbdoa0fliuo3uae6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-11KSqCMguNBc3uhCsUO38NNBC-zbyaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040824737850-fdvrsrlj3tit1visbdoa0fliuo3uae6j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1040824737850-ah34kk26467dku2q2ocdp1mb7qtp6lru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
